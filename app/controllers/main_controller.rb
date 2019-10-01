@@ -1,4 +1,4 @@
-require_relative "../services/weather_service"
+require_relative '../services/weather_service'
 
 class MainController < ApplicationController
 
